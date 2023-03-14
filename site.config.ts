@@ -10,7 +10,6 @@ export default siteConfig({
 
   // basic site info (required)
   name: "Twone's World",
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Twone',
 
   // open graph metadata (optional)
@@ -19,7 +18,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'tokyo10086',
   github: 'ohmyself',
-  YouTube: '0xtwone',
+  YouTube: '#channel/UCDcD8uwHi7H-OkPow7iFgqQ',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
