@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'tokyo10086',
   github: 'ohmyself',
-  youtube: 'channel/UCG0xtwone',
+  youtube: 'channel/UCGb0xtwone',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
