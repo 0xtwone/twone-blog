@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: "Twone's World",
-  domain: 'twone-blog-iota.vercel.app',
+  domain: '0xtwone.com',
   author: 'Twone',
 
   // open graph metadata (optional)
@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'tokyo10086',
-  github: 'ohmyself',
+  github: '0xtwone',
   youtube: 'channel/UCDcD8uwHi7H-OkPow7iFgqQ',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
