@@ -8,7 +8,7 @@
  */
 
 .notion {
-  --notion-max-width: 720px;
+  --notion-max-width: 1024px;
   --notion-header-height: 54px;
 }
 
@@ -18,7 +18,7 @@
 }
 
 .index-page {
-  --notion-max-width: 900px;
+  --notion-max-width: 1024px;
 }
 
 .notion-text {
@@ -69,7 +69,7 @@
 }
 
 .notion-gallery-grid .notion-property-text {
-  font-size: 14px;
+  font-size: 24px;
 }
 
 .notion-collection-card {
